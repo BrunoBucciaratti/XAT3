@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">XAT</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contact_text">Контакты</string>
+    <string name="enter_text">Вход</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="logo1">Pizza</string>
+    <string name="logo2">XAT</string>
+    <string name="course_start_date">Пример</string>
+    <string name="course_level">Пример2</string>
+    <string name="pizza">Пицца</string>
+    <string name="sushi">Суши</string>
+    <string name="deserts">Десерты</string>
+    <string name="drinks">Напитки</string>
+    <string name="salads">Салаты</string>
+    <string name="soups">Супы</string>
+    <string name="snacks">Закуски</string>
+</resources>
